@@ -28,17 +28,17 @@
   }
   
   .logo:link{
-    color: black;
+    color: lightgray;
     text-decoration: none;
   }
   
   .logo:visited{
-    color: black;
+    color: lightgray;
     text-decoration: none;
   }
   
   .logo:hover{
-    color: black;
+    color: lightgrey;
     text-decoration: none;
     opacity: 0.7;
     transition: 0.5s ease-in-out;
